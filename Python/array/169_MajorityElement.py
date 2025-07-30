@@ -12,7 +12,10 @@ class Solution:
         return candidate
         
 
+def main():
+    nums = [2,2,1,1,1,2,2]
+    MajEle = Solution()
+    print(MajEle.majorityElement(nums))
 
-nums = [2,2,1,1,1,2,2]
-MajEle = Solution()
-print(MajEle.majorityElement(nums))
+if __name__ == '__main__':
+    main()
