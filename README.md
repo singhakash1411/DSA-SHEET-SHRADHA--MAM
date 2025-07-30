@@ -1,6 +1,6 @@
 <H1>DSA PROBLEM SHEET</H1>
-
-<U>In this the sheet problem is sholved in C++ and Python
+<hr>
+<b>In this the sheet problem is sholved in <i>C++</i>and <i>Python</i> </b>
 
 Hello everyone , in this repo i will be posting the solution of the DSA problems from the sheet designed by the shradha Khapar mam 
 
@@ -18,4 +18,4 @@ Hello everyone , in this repo i will be posting the solution of the DSA problems
 | 5  | Stock Buy & Sell                       | Easy       |                            |                |
 
 ```
-<h3>Sheet File</h3>
+
